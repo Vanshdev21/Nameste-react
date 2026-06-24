@@ -1,3 +1,6 @@
+import React from "react";
+import {createRoot} from 'react-dom/client';
+
 let container = React.createElement(
     'div',
     {id: "parent"},
@@ -8,6 +11,6 @@ let container = React.createElement(
     )
 )
 
-let root = ReactDOM.createRoot(document.querySelector("#root"));
+let root = createRoot(document.querySelector("#root"));
 
 root.render(container);
