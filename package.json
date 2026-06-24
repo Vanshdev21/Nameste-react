@@ -1,0 +1,24 @@
+{
+  "name": "nameste-react",
+  "version": "1.0.0",
+  "description": "react practice - vk",
+  "keywords": [],
+  "homepage": "https://github.com/Vanshdev21/Nameste-react#readme",
+  "bugs": {
+    "url": "https://github.com/Vanshdev21/Nameste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vanshdev21/Nameste-react.git"
+  },
+  "license": "ISC",
+  "author": "Vansh khubchandani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
