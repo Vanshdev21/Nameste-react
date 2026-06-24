@@ -14,7 +14,6 @@
   "license": "ISC",
   "author": "Vansh khubchandani",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
